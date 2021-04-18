@@ -1,0 +1,7 @@
+# db .env file
+POSTGRES_USER=compose-postgres
+POSTGRES_PASSWORD=compose-postgres
+POSTGRES_DB=compose-postgres
+POSTGRES_HOST_AUTH_METHOD=trust
+#PGUSER=compose-postgres
+#PGDATA=/var/lib/postgresql/data
